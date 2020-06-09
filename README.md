@@ -1,4 +1,4 @@
-# GoogleColabProject
+# Colab DonkeyCar Project
 
 Google에서 지원하는 Colaboratory 환경에서 Donkey의 주행 영상데이타를 활용해서 신경회로망의 학습을 단계적으로 수행하도록 안내하는 노트북입니다.
 
